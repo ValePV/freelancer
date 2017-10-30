@@ -5,13 +5,12 @@ body {
  	margin:0;
  	width: 1349px;
 }
+/*Menu superior*/
 .container{
  	width: 1349px;
  	height: 108px;
  	background: #2c3e50;
  	/*position: fixed;*/
- 	
-
 }
 .container a h1{
 	display: inline-block;
@@ -36,17 +35,18 @@ body {
 .primero{
  	margin-left: 470px;
 }
-
+/*cambio de color del texto*/
 .container a h2:hover {
  	color: #18bc9c;
 }
-
+/*primera seccion*/
 .section-first{
  	width: 1349px;
  	height: 650px;
  	background: #18bc9c;
  	padding-top: 93px;
 }
+/*texto*/
 .section-first h1{
  	margin-top: 25px;
  	margin-left: 303px;
@@ -56,6 +56,7 @@ body {
  	font-family: 'Montserrat', sans-serif;
  	
 }
+/*imagen de usuario*/
 .section-first img{
 	margin-top: 105px;
 	margin-left: 546px;
@@ -67,6 +68,7 @@ body {
  	text-align: center;
  	color: white;
 }
+/*linear de estrella*/
 .hr-uno{
    width: 104px;
    height:5px;
@@ -93,6 +95,7 @@ body {
  	color: white;
  	margin-left: 2px;
 }
+/*segunda seccion*/
 .section-second{
 	height: 744px;
 }
@@ -106,7 +109,7 @@ body {
  	font-family: 'Montserrat', sans-serif;
 
 }
-
+/*linea de las estrella*/
  .hr-tres{
    width: 104px;
    height:5px;
@@ -133,7 +136,7 @@ body {
  	color: #2c3e50;
  	margin-left: 2px;
 }
-
+/*imagenes*/
 .container2 img{
  	width: 351px;
  	height: 253px;
@@ -150,7 +153,7 @@ body {
  	margin-top: 22px;
  	margin-left: 31px;
 }
- 
+/*tercera seccion*/
 .section-third{
 	height: 590px;
 	background: #18bc9c;
@@ -165,6 +168,7 @@ body {
  	font-family: 'Montserrat', sans-serif;
 
 }
+/*tabla*/
 .tabla1 tr{
 	display: inline-block;
 	width: 800px;
@@ -201,6 +205,7 @@ body {
  	padding-left: 43px;
  	/*outline: 1px solid blue;*/
 }
+/*Boton*/
 .download{
 	width: 214px;
 	height:51px;
@@ -223,6 +228,7 @@ body {
 	text-decoration: none;
 	padding:10px;
 }
+/*cuarta seccion*/
 .section-four {
 	height: 937px;
 	background: white;
@@ -240,6 +246,7 @@ body {
  	color: #2c3e50;
  	margin-left: 2px;
 }
+/*contacto*/
 .section-four ul{
 	width: 729px;
 	list-style: none; 
@@ -256,12 +263,14 @@ body {
 .section-four li:nth-of-type(4){
 	margin-bottom: 187px;
 }
+
 .contact{
 	/*background: #DCDBDB;*/
 	width: 710px;
 	border: 0.5px solid #DCDBDB;
 	
 }
+/*boton*/
 .section-four a{
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
@@ -281,6 +290,7 @@ body {
 .section-four a:hover {
 	background: #128f76;
 }
+/*footer*/
 footer{
 	height: 343px;
 	background: #2c3e50;
@@ -304,7 +314,7 @@ footer h3{
  	font-size: 28px;
  	font-family: 'Montserrat', sans-serif;
 }
-
+/*tabla */
 .tabla2 tr{
 	width: 1349px;
 	height: 130px
@@ -327,7 +337,7 @@ footer h3{
 	width: 300px;
 	padding-left: 65px;
 }
-
+/*iconos con circulos*/
 .fa-facebook {
 	font-size: 20px;
 	color: white;
